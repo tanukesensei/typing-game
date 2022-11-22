@@ -19,6 +19,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build --dotfiles"
   },
+  "homepage": "https://tanukesensei.github.io/typing-game/",
   "eslintConfig": {
     "extends": [
       "react-app",
